@@ -1,0 +1,1 @@
+SELECT title FROM news where news_id = @nid;
